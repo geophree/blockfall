@@ -15,8 +15,9 @@ _Since Bevy is in heavy development, there regularly are unpublished new feature
 # How to use this template?
  1. Click "Use this template" on the repository's page
  2. Look for `ToDo` to use your own game name everywhere
- 3. [Update the icons as described below](#updating-the-icons)
- 4. Start coding :tada:
+ 3. Change to your preferred license in `Cargo.toml` and `LICENSE`
+ 4. [Update the icons as described below](#updating-the-icons)
+ 5. Start coding :tada:
     * Start the native app: `cargo run`
     * Start the web build: `trunk serve`
        * requires [trunk]: `cargo install --locked trunk`
